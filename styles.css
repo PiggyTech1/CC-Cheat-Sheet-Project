@@ -1,0 +1,26 @@
+h1,
+h2 {
+  text-align: center;
+  font-family: Georgia, serif;
+}
+
+table {
+  font-family: "Courier New", monospace;
+  border: 2px solid #CAAD7E;
+}
+
+th {
+  background-color: #9CAF88;
+}
+
+td {
+  background-color: #DFE6DA;
+}
+
+.syntax {
+  background-color: #CBD5C0;
+}
+
+.synPos {
+  text-align: center;
+}
